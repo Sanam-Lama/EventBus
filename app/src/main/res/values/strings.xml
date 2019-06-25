@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EventBus</string>
+
+    <string name="event_message">This simple app gets a message from Event bus on a Service and displays the message on a TextView widget</string>
+    <string name="start_intent_service">START INTENT SERVICE</string>
+    <string name="event_message_from_service">Message from EventBus in Service Class</string>
+
+</resources>
